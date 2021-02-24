@@ -1,5 +1,9 @@
 -//Ecoomerce website//-
 
+WHEN YOU CLICK ON THE FILE 
+ON LEFT SIDE YOU'LL SEE [DOWNLOAD] BUTTON
+DOWNLOAD WHOLE FILE AND PASTE IT IN HTDOC UNDER XAMPP
+
 User Login:
 email: uir791@gmail.com
 password: ihateu,791
